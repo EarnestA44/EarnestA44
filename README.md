@@ -1,4 +1,4 @@
-<h1>Hi, I'm Earnest, <a href=https://www.linkedin.com/in/earnest-anderson-iii-355797350/>
+<h1>Hi, I'm Earnest <a href=https://www.linkedin.com/in/earnest-anderson-iii-355797350/>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
